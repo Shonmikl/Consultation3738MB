@@ -33,7 +33,5 @@ public class ArrayEx {
         for (int a : newArray) {
             System.out.println(a);
         }
-
-
     }
 }
