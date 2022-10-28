@@ -16,6 +16,12 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
+
+
+
+
+
                         //144                   //44
 //        getResultVoid
 //                (getResultInt(getResultInt(getResultInt(), 5), getResultInt(5, 10)), getResultInt(22, 2));
